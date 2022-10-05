@@ -16,7 +16,7 @@ I'm a Passionate Developer, I love to create beautiful and functional websites.P
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunkatiyar1111&label=Profile%20views&color=0e75b6&style=flat" alt="tarunkatiyar1111" /> </p> <br>
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunkatiyar1111" alt="tarunkatiyar1111" /></a> </p> <br>
+
  
  
 
@@ -33,4 +33,4 @@ I'm a Passionate Developer, I love to create beautiful and functional websites.P
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarunkatiyar1111&show_icons=true&locale=en" alt="tarunkatiyar1111" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunkatiyar1111&" alt="tarunkatiyar1111" /></p>
- 
+ <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarunkatiyar1111" alt="tarunkatiyar1111" /></a> </p> <br>
