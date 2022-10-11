@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I am Tarun Katiyar</h1>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Quick+learner;&color=red&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Front+End+Web+Developer;Quick+learner;&color=red&center=true" />
 </div> 
 <div align="center">  
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
  
  ### Summary
-I'm a Passionate Developer, I love to create beautiful and functional websites.Proficient in Web Development, HTML, CSS, JavaScript,Seeking to further improve skills as The Future Full Stack Web developer at Atmospheric Solutions.I am Passionate to learn new technology, new things to explore and want to improve my skills.
+I'm a Passionate Developer, I love to create beautiful and functional websites.Proficient in Web Development, HTML, CSS, JavaScript,Seeking to further improve skills as a Front End Web developer at Atmospheric Solutions.I am Passionate to learn new technology, new things to explore and want to improve my skills.
 
 # 💫 About Me:
 <br>
